@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FulcrumSoftwareTestTask/FulcrumSoftwareTestTask.csproj" Id="f61fa393-465d-4e83-bb4e-3325f004b86f" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FulcrumSoftwareTestTask.Tests/FulcrumSoftwareTestTask.Tests.csproj" Id="ae397cdf-97de-469b-bced-10c6b020e6fe" />
+  </Folder>
+</Solution>
